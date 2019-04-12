@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+main {
+    width: 450px;
+    margin: 0 auto;
+    margin-top:50px;
+    padding: 2em;
+    border: 2px solid#07889B;
+    box-shadow: black 3px 2px;
+    background:lightcyan;
+    
+
+}
+
+form {
+    overflow:hidden;
+    float:center;
+
+}
+
+td {
+    padding:10px;
+}
+
+
+h1 {
+    margin-top: 20px;
+    color: rgb(81, 47, 204);
+    text-align:center;
+    margin-bottom:40px;
+    text-shadow: 1px 1px black;
+    
+
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
